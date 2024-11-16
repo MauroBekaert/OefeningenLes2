@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pra.Classes.PublicFields.BirthdayFriends.Core/1.0.0": {
+        "runtime": {
+          "Pra.Classes.PublicFields.BirthdayFriends.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pra.Classes.PublicFields.BirthdayFriends.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prb.Classes.Methods.TelevisionShop.Wpf/1.0.0": {
+        "dependencies": {
+          "Prb.Classes.Methods.TelevisionShop.Core": "1.0.0"
+        },
+        "runtime": {
+          "Prb.Classes.Methods.TelevisionShop.Wpf.dll": {}
+        }
+      },
+      "Prb.Classes.Methods.TelevisionShop.Core/1.0.0": {
+        "runtime": {
+          "Prb.Classes.Methods.TelevisionShop.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prb.Classes.Methods.TelevisionShop.Wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Prb.Classes.Methods.TelevisionShop.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

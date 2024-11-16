@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Pra.Classes.PublicFields.BirthdayFriends.Core\Pra.Classes.PublicFields.BirthdayFriends.Core.csproj" />
+  </ItemGroup>
+</Project>
